@@ -1,0 +1,7 @@
+openpyxl
+Flask
+Flask-CORS
+matplotlib
+numpy
+pandas
+scipy
